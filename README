@@ -1,3 +1,8 @@
 #hello
 On branch main
+<<<<<<< HEAD
 AFK Journey
+=======
+
+test by chanpen
+>>>>>>> e803df8980337bc2e31e0445de47dc77a32878be
